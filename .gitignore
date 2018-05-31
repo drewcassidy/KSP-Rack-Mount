@@ -1,0 +1,11 @@
+Library/
+Assets/
+ProjectSettings/
+Temp/
+KSP/
+PartTools.cfg
+
+*.meta
+.ds_store
+*.sublime*
+*.eps
